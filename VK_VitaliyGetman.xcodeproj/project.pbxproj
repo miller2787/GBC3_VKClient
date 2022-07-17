@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D60FAD012883C61300E96524 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60FAD002883C61300E96524 /* Session.swift */; };
 		D64B3EB328431CC50036DA55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64B3EB228431CC50036DA55 /* AppDelegate.swift */; };
 		D64B3EB528431CC50036DA55 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64B3EB428431CC50036DA55 /* SceneDelegate.swift */; };
 		D64B3EB728431CC50036DA55 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64B3EB628431CC50036DA55 /* LoginViewController.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D60FAD002883C61300E96524 /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 		D64B3EAF28431CC50036DA55 /* VK_VitaliyGetman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VK_VitaliyGetman.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D64B3EB228431CC50036DA55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D64B3EB428431CC50036DA55 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 		D655E44C2854608F00526385 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				D60FAD002883C61300E96524 /* Session.swift */,
 				D655E44F285460DD00526385 /* Friend.swift */,
 				D655E48E2856436900526385 /* Group.swift */,
 				D6721516285DF828000BE808 /* Photo.swift */,
@@ -278,6 +281,7 @@
 				D655E48B2856361700526385 /* GalleryViewController.swift in Sources */,
 				D655E4882856350A00526385 /* FotoCollectionViewCell.swift in Sources */,
 				D66023E9285F3B0C0064CE15 /* PhGallery.swift in Sources */,
+				D60FAD012883C61300E96524 /* Session.swift in Sources */,
 				D655E48D285641EC00526385 /* MyGroupViewController.swift in Sources */,
 				D64B3EB528431CC50036DA55 /* SceneDelegate.swift in Sources */,
 				D655E494285650EB00526385 /* VC+CollectionDelegate.swift in Sources */,
